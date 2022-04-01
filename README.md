@@ -31,7 +31,7 @@ Current work field on; Applications of AI related to Fashion. #FashionAI #패션
 - 💬 Ask me about stuff I'm working on
 - 📫 How to reach me: Twitter (maybe slow to respond)
 - 😄 Pronouns: She
-- 🔊 [Pronounciation](https://github.com/cceyda/cceyda/blob/main/assets/ceyda.mp4): Ceyda Çınarel (재이다 츠나렐)
+- 🔊 [Pronunciation](https://github.com/cceyda/cceyda/blob/main/assets/ceyda.mp4): Ceyda Çınarel (재이다 츠나렐)
 
 <audio controls>
   <source src="https://github.com/cceyda/cceyda/blob/main/assets/ceyda.mp4" />
