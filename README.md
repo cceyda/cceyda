@@ -23,13 +23,9 @@ Do a little bit of everything at the moment; NLP, CV, Data analysis +multimodal 
 
 Current work field on; Applications of AI related to Fashion. #FashionAI #패션AI
 
-<figure style="float: right; text-align:center" >
-<img alt="coding cat" width="300"  src="./assets/coding_cat.gif" /> 
-<figcaption>Occasionally write <a href="https://cceyda.github.io/blog">blog</a></figcaption>
+<img alt="coding cat" align="right" width="300"  src="./assets/coding_cat.gif" /> 
 
-</figure>
-
-
+- 📝 Occasionally write [blog](https://cceyda.github.io/blog)
 - 🔭 Research keywords of interests; language learning+brain, hyperbolic space, colorspace, model interpretability
 - 😛 Languages: English, Turkish, Korean....+(I understand some) Japanese, French, Italian 
 - 💬 Ask me about stuff I'm working on
@@ -42,6 +38,7 @@ Current work field on; Applications of AI related to Fashion. #FashionAI #패션
 </audio> 
 
 - ⚡ Fun fact: From Turkey living in Korea
+
 
 Happy to be;
 
