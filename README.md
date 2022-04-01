@@ -23,29 +23,22 @@ Do a little bit of everything at the moment; NLP, CV, Data analysis +multimodal 
 
 Current work field on; Applications of AI related to Fashion. #FashionAI #패션AI
 
-<style>
-figure {
-  display: inline-block;
-  text-align: center;
-  float: right
-}
-
-</style>
-
-<figure>
+<figure style="float: right; text-align:center" >
 <img alt="coding cat" width="300"  src="./assets/coding_cat.gif" /> 
 <figcaption>Occasionally write <a href="https://cceyda.github.io/blog">blog</a></figcaption>
+
 </figure>
+
 
 - 🔭 Research keywords of interests; language learning+brain, hyperbolic space, colorspace, model interpretability
 - 😛 Languages: English, Turkish, Korean....+(I understand some) Japanese, French, Italian 
 - 💬 Ask me about stuff I'm working on
 - 📫 How to reach me: Twitter (maybe slow to respond)
 - 😄 Pronouns: She
-- 🔊 Pronounciation: Ceyda Çınarel (재이다 츠나렐)
+- 🔊 [Pronounciation](https://github.com/cceyda/cceyda/blob/main/assets/ceyda.mp4): Ceyda Çınarel (재이다 츠나렐)
 
 <audio controls>
-  <source src="https://github.com/cceyda/cceyda/blob/main/assets/ceyda.wav?raw=true" />
+  <source src="https://github.com/cceyda/cceyda/blob/main/assets/ceyda.mp4" />
 </audio> 
 
 - ⚡ Fun fact: From Turkey living in Korea
@@ -56,7 +49,7 @@ Happy to be;
 - 🎓 Seoul National University alumni (KGSP)
 
 
-#### Preferred arsenal; 
+#### Preferred arsenal 
 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23EE4C2C.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 [![StackShare](https://img.shields.io/badge/More-%23EE4C2C.svg?style=for-the-badge&logo=StackShare&logoColor=white)](https://stackshare.io/cceyda/my-stack)
