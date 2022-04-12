@@ -41,7 +41,7 @@ Current work field on; Applications of AI related to Fashion. #FashionAI #패션
 
 
 Happy to be;
-
+- 🤗 In [Hugging Face Fellowship](https://huggingface2.notion.site/Hugging-Fellows-One-Pager-fa1c8878a7a14945b7e0dda2d1e34f36) program
 - 🎈 In [Streamlit creator's](https://streamlit.io/creators) program 
 - 🎓 Seoul National University alumni (KGSP)
 
