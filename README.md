@@ -48,8 +48,8 @@ Happy to be;
 
 #### Preferred arsenal 
 
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23EE4C2C.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-[![StackShare](https://img.shields.io/badge/More-%23EE4C2C.svg?style=for-the-badge&logo=StackShare&logoColor=white)](https://stackshare.io/cceyda/my-stack)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23EE4C2C.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) [![StackShare](https://img.shields.io/badge/More-%23EE4C2C.svg?style=for-the-badge&logo=StackShare&logoColor=white)](https://stackshare.io/cceyda/my-stack)
 
 I star repos that are interesting & potentially usefull to me. I even try to organize them into lists now! 
 <!-- [![Streamlit](https://github-profile-trophy.vercel.app/?username=cceyda&title=Stars&no-bg=true&no-frame=true)](https://github.com/cceyda?tab=stars) -->
