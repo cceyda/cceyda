@@ -25,7 +25,7 @@ Current work field on; Applications of AI related to Fashion. #FashionAI #패션
 
 <img alt="coding cat" align="right" width="300"  src="./assets/coding_cat.gif" /> 
 
-- 📝 Occasionally write [blog](https://cceyda.github.io/blog)
+- 📝 Occasionally write [blog](https://cceyda.github.io/blog) blog is down for now cause I'm taking a break & don't have github pro for a while
 - 🔭 Keywords of interests; language learning+brain, hyperbolic space, colorspace, model interpretability. (BYO)Build/Bring Your Own Model/Data
 - 😛 Languages: English, Turkish, Korean....+(I understand some) Japanese, French, Italian 
 - 💬 Ask me about stuff I'm working on
